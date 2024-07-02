@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-hossain-alvi&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-hossain-alvi" /> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-hossain-alvi&" alt="shahriar-hossain-alvi" /></p>
+
 - 🔭 I’m currently working on [My Portfolio](https://shahriar-hossain-alvi-portfolio.vercel.app)
 
 - 🌱 I’m currently learning **Frontend web development**
