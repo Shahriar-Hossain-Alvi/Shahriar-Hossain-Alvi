@@ -1,5 +1,4 @@
-![banner](https://github.com/Shahriar-Hossain-Alvi/Shahriar-Hossain-Alvi/assets/95173268/5cd7f9ad-28cd-47f4-81fe-23afc8bf48b4)
-
+![BLack Minimalist Corporate Staff Identity LinkedIn Banner (1)](https://github.com/Shahriar-Hossain-Alvi/Shahriar-Hossain-Alvi/assets/95173268/63b69d03-e079-4b22-af47-d4f2b31789dd)
 
 # 💫 About Me: 
 I am a frontend web developer with experience in building websites using HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. Additionally, I have knowledge of MongoDB CRUD operations and creating server-side applications with Node.js and Express.js. 
