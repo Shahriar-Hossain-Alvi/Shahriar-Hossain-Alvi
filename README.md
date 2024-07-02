@@ -1,3 +1,5 @@
+![banner](https://github.com/Shahriar-Hossain-Alvi/Shahriar-Hossain-Alvi/assets/95173268/b6c20926-b6d2-40f7-99f6-443eadd868cb)
+
 <h1 align="center">Hi 👋, I'm Md Shahariar Hossain Alvi</h1>
 <h3 align="center">I am a frontend web developer with experience in building websites using HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. Additionally, I have knowledge of MongoDB CRUD operations and creating server-side applications with Node.js and Express.js.</h3>
 
