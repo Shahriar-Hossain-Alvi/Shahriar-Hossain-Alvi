@@ -1,4 +1,5 @@
-# 💫 About Me: I am a frontend web developer with experience in building websites using HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. Additionally, I have knowledge of MongoDB CRUD operations and creating server-side applications with Node.js and Express.js. 
+# 💫 About Me: 
+I am a frontend web developer with experience in building websites using HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. Additionally, I have knowledge of MongoDB CRUD operations and creating server-side applications with Node.js and Express.js. 
 🌱 I’m currently learning frontend development
 
 
