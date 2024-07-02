@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-hossain-alvi&show_icons=true&locale=en&layout=compact" alt="shahriar-hossain-alvi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahriar-hossain-alvi&show_icons=true&locale=en" alt="shahriar-hossain-alvi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar-hossain-alvi&" alt="shahriar-hossain-alvi" /></p>
