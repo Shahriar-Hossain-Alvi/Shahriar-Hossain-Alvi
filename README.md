@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shahriarhossainalvi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GlHZlI8SNE3mifZmmIn_QevlHDCQv1q1/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1GlHZlI8SNE3mifZmmIn_QevlHDCQv1q1/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
