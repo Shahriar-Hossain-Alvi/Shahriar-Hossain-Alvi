@@ -1,3 +1,5 @@
+![banner](https://github.com/Shahriar-Hossain-Alvi/Shahriar-Hossain-Alvi/assets/95173268/b6c20926-b6d2-40f7-99f6-443eadd868cb)
+
 <h1 align="center">Hi 👋, I'm Md Shahariar Hossain Alvi</h1>
 <h3 align="center">I am a jr. web developer with experience in building websites using HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. Additionally, I have knowledge of MongoDB CRUD operations, Postgresql with Prisma ORM, and creating server-side applications with Express.js and NestJs.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahriar-Hossain-Alvi&label=Profile%20views&color=0e75b6&style=flat" alt="Shahriar-Hossain-Alvi" /> </p>
