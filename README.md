@@ -2,7 +2,6 @@
 <h3 align="center">I am a jr. web developer with experience in building websites using HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. Additionally, I have knowledge of MongoDB CRUD operations, Postgresql with Prisma ORM, and creating server-side applications with Express.js and NestJs.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahriar-Hossain-Alvi&label=Profile%20views&color=0e75b6&style=flat" alt="Shahriar-Hossain-Alvi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shahriar-Hossain-Alvi&theme=" alt="Shahriar-Hossain-Alvi" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Fastapi, SQLAlchemy, Alembic**
 
@@ -10,7 +9,7 @@
 - 👨‍💻 All of my projects are available at **https://shahriar-hossain-alvi-portfolio.vercel.app**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1GlHZlI8SNE3mifZmmIn_QevlHDCQv1q1/view?usp=sharing**
 
-<div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/md-shahriar-hossain-alvi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/md-shahriar-hossain-alvi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Shahriar-Hossain-Alvi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:shahriarhossainalvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
@@ -38,9 +37,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Hossain-Alvi&layout=compact&theme=dark" alt=Shahriar-Hossain-Alvi />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahriar-Hossain-Alvi&theme=dark" alt="Shahriar-Hossain-Alvi" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
