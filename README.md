@@ -1,21 +1,17 @@
-![banner](https://github.com/Shahriar-Hossain-Alvi/Shahriar-Hossain-Alvi/assets/95173268/b6c20926-b6d2-40f7-99f6-443eadd868cb)
+![Md Shahriar Hossain Alvi, Junior Full-Stack Developer](assets/banner.svg)
 
-<h1 align="center">Hi 👋, I'm Md Shahriar Hossain Alvi</h1>
-<h3 align="center">I am a jr. web developer with experience in building websites using HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. Additionally, I have knowledge of MongoDB CRUD operations, Postgresql with Prisma ORM, Postgresql with sqlalchemy and creating server-side applications with fastapi, Express.js NestJs, Dokcer</h3>
+<h3 align="center">I am a junior full-stack developer. On the front end I build with HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. On the back end I build server-side applications with FastAPI, Express.js and work with MongoDB, PostgreSQL, SQLAlchemy ORM and Docker.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahriar-Hossain-Alvi&label=Profile%20views&color=0e75b6&style=flat" alt="Shahriar-Hossain-Alvi" /> </p>
 
-
-- 🌱 I’m currently learning **Python, Fastapi, SQLAlchemy, Alembic**
+- 🌱 I'm currently learning **Next.Js, TypeScript, NestJs, Prisma**
 
 - 📫 How to reach me **shahriarhossainalvi@gmail.com**
-- 👨‍💻 All of my projects are available at **https://shahriar-hossain-alvi-portfolio.vercel.app**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1mcS-Qh8n6m6kdw0O9sOZoUUw8VkqBBu4/view?usp=sharing**
+- 👨‍💻 All of my projects are available at **https://sh-alvi.vercel.app**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1_iPHkToNzx47hAFydLOmrP2u7Kn5j11j/view**
 
-<div> <a href="https://www.linkedin.com/in/md-shahriar-hossain-alvi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Shahriar-Hossain-Alvi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-shahriar-hossain-alvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="www.linkedin.com/in/md-shahriar-hossain-alvi" height="30" width="40" /></a><a href="https://fb.com/shahriar.hossain.288269" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/shahriar.hossain.288269" height="30" width="40" /></a></p>
+<div> <a href="https://www.linkedin.com/in/md-shahriar-hossain-alvi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Shahriar-Hossain-Alvi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,6 +33,5 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shahriar-Hossain-Alvi&theme=default"/>
+<h2 align="left">⚡Activity Graph:</h2>
+<img src="assets/activity.svg" alt="My GitHub contributions per month over the last 12 months"/>
