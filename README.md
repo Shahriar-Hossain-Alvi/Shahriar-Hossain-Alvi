@@ -1,6 +1,6 @@
 ![Md Shahriar Hossain Alvi, Junior Full-Stack Developer](assets/banner.svg)
 
-<h3 align="center">I am a junior full-stack developer. On the front end I build with HTML5, CSS3, JavaScript, React, Tailwind CSS and Firebase authentication. On the back end I build server-side applications with FastAPI, Express.js and work with MongoDB, PostgreSQL, SQLAlchemy ORM and Docker.</h3>
+<h3 align="center">I am a junior full-stack developer. On the front end I build with HTML5, CSS3, JavaScript, React, Tailwind CSS. On the back end I build server-side applications with FastAPI, Express.js and work with MongoDB, PostgreSQL, SQLAlchemy ORM and Docker.</h3>
 
 
 - 🌱 I'm currently learning **Next.Js, TypeScript, NestJs, Prisma**
