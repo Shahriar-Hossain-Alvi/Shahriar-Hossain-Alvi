@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+<h4 align="left">Languages:</h4>
 <img src="assets/icons/c.svg" alt="C" width="40" height="40"/>
 <img src="assets/icons/cpp.svg" alt="CPP" width="40" height="40"/>
 <img src="assets/icons/javascript.svg" alt="Javascript" width="40" height="40"/>
@@ -21,14 +22,20 @@
 <img src="assets/icons/typescript.svg" alt="Typescript" width="40" height="40"/>
 <img src="assets/icons/css3.svg" alt="CSS3" width="40" height="40"/>
 <img src="assets/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-<img src="assets/icons/react.svg" alt="React" width="40" height="40"/>
 <img src="assets/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
+  
+<h4 align="left">Frameworks:</h4>
+<img src="assets/icons/react.svg" alt="React" width="40" height="40"/>
 <img src="assets/icons/nestjs.svg" alt="NestJS" width="40" height="40"/>
 <img src="assets/icons/express.svg" alt="Express" width="40" height="40"/>
 <img src="assets/icons/fastapi.svg" alt="FastAPI" width="40" height="40"/>
+
+<h4 align="left">Database and ORM's:</h4>
 <img src="assets/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
 <img src="assets/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
 <img src="assets/icons/sqlalchemy.svg" alt="SQLAlchemy" width="40" height="40"/>
+
+<h4 align="left">Tools and Others:</h4>
 <img src="assets/icons/docker.svg" alt="Docker" width="40" height="40"/>
 <img src="assets/icons/postman.svg" alt="Postman" width="40" height="40"/>
 <img src="assets/icons/figma.svg" alt="Figma" width="40" height="40"/>
